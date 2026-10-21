@@ -26,6 +26,10 @@ Penyimpanan Lokal (Local Database)
 
 Data transaksi tersimpan aman di dalam penyimpanan lokal perangkat menggunakan database SQLite / Room.
 
+Screenshoot 
+
+
+
 📁 Struktur Singkat Proyek
 Berikut adalah gambaran struktur folder dan file utama dalam proyek Android ini:
 
