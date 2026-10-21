@@ -28,7 +28,9 @@ Data transaksi tersimpan aman di dalam penyimpanan lokal perangkat menggunakan d
 
 Screenshoot 
 
-
+<p align="center">
+  <img width="300" alt="Tampilan Aplikasi Catatan Keuangan" src="https://github.com/user-attachments/assets/d2757e93-0d89-47e1-a335-43cd6c9cc0f5" />
+</p>
 
 📁 Struktur Singkat Proyek
 Berikut adalah gambaran struktur folder dan file utama dalam proyek Android ini:
