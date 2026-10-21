@@ -29,7 +29,11 @@ Data transaksi tersimpan aman di dalam penyimpanan lokal perangkat menggunakan d
 Screenshoot 
 
 <p align="center">
-  <img width="300" alt="Tampilan Aplikasi Catatan Keuangan" src="https://github.com/user-attachments/assets/d2757e93-0d89-47e1-a335-43cd6c9cc0f5" />
+  <img src="https://github.com/user-attachments/assets/d2757e93-0d89-47e1-a335-43cd6c9cc0f5" width="240" alt="Tampilan Utama" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/3fa14193-83a5-46cd-b982-c87b0528497f" width="240" alt="Detail Transaksi" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/cd62e227-4b6f-462d-a394-9a6b46980b28" width="240" alt="Tambah Transaksi" />
 </p>
 
 📁 Struktur Singkat Proyek
